@@ -6,6 +6,10 @@ Les fonctionnalités de l'outil incluent la saisie des informations des étudian
 
 Le site web a été développé en collaboration avec Hugo Coston, Paul-Emile Nguyen-Tan-Hon, Yousef Hamdi et moi-même, Nantenaina Randrianasolo. Les langages utilisés sont JavaScript, PHP, HTML et CSS. Les outils tels que FileZilla, Xampp, VSCode, SublimeText et Ngrok ont été employés pour le développement et l'hébergement du site. Vous pouvez retrouver des liens utiles comme des ressources de documentation et des outils utilisés dans le projet. Veuillez noter que le site est en cours de travaux et sera finalisé à partir du lundi 06/05/2024 pour répondre aux exigences du cahier des charges.
 
+Le guide Users & Admin sera mis nécessairement Lundi. Un guide est disponible pour la partie théorique et vous retrouverez également le PPT.
+
+Lien du site d'hebergement (fonctionnel par pont donc que si mon pc est allumé .. ) : https://pipefish-fluent-louse.ngrok-free.app/
+ 
 Liens : 
 
   Outils : 
