@@ -1,0 +1,54 @@
+Accueil : 
+    (Aucun bouton accessible sauf la page de login) 
+    Si bouton autre que login cliqué, alors redirige directement vers login 
+
+Menu : 
+    - Mon profil : Change en fonction si passager ou conducteur avec deux boutons 
+        Information personnel global :
+            Information :
+                - Nom : 
+                - Prenom : 
+                - Email : 
+                - Telephone : 
+                - Adresse :
+                - Numero : 
+                - Adresse
+                - Code Postal
+                - Ville
+                Si conducteur en +  : 
+                    - Vehicule : 
+                    -  immatriculation
+                    -  carte grise
+                    - assurance dans laquelle votre véhicule est assuré
+                    - date du dernier contrôle technique effectué sur votre véhicule
+                    - nombre de places disponibles dans ce dernier.
+        Information universitaires : 
+            Information : 
+                - Groupe 
+                - Sous groupe       
+                - Promotion
+                - Annee
+                - Filiere
+                - Niveau
+                
+    - Changer de Mot de passe
+    - CHanger de compte : Switch entre : 
+        - Admin (Celui qui gère le csv et la bdd) 
+        - Utilisateurs (passager ou conducteur) -> Mettre un logo à coter du profil si conducteur ou passager
+
+
+Menu Equipe : 
+    - Mes équipes ou je suis actuellement ( affichage simple)
+    - Créer une équipe (conducteur) : 
+        - Lieu Arrivée 
+        - Date 
+        - Horaire de départ 
+        - Financement (optionnel)
+        Gestion d'équipe (optionnel) : 
+            - Ajouter un membre : 
+                - Rechercher un membre 
+                - Ajouter un membre 
+                - Supprimer un membre 
+                - Modifier un membre 
+    - Affichage des équipes : 
+        - Equipe disponibles
