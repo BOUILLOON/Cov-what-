@@ -24,5 +24,19 @@ Liens :
   https://www.php.net/manual/fr/intro-whatis.php & https://www.php.net/manual/fr/book.pdo.php
   https://www.w3.org/
   https://beautifytools.com/php-beautifier.php
+
+
+
+UPDATE 
+
+Aujourd'hui, lundi, marque une étape dans l'évolution du projet Cov-what-. Des modifications significatives ont été apportées pour améliorer l'expérience des utilisateurs. Désormais, vous pouvez accéder aux dernières mises à jour sur le lien suivant (les anciens documents et fichier ont été modifié donc plus accessible) : https://ff1b-193-55-66-240.ngrok-free.app/.
+
+Ces modifications visent à rendre l'outil informatique encore plus efficace pour répondre aux besoins spécifiques des étudiants de la formation universitaire BUT R&T. L'objectif principal reste de faciliter l'organisation du covoiturage en mettant en relation les étudiants partageant le même itinéraire vers le pôle universitaire des portes du Jura à Montbéliard.
+
+Notre équipe a utilisé une combinaison de langages et d'outils, notamment JavaScript, PHP, HTML, CSS, FileZilla, Xampp, VSCode, SublimeText et Ngrok pour le développement et l'hébergement du site. Nous avons également inclus des liens utiles vers des ressources de documentation et des outils utilisés dans le projet pour faciliter votre utilisation du site.
+
+Veuillez noter que le travail sur le site n'est pas l'attendu final que nous avons vu sur la partie théorique mais une partie expérimental que nous sommes content de présenter. Un guide pour les utilisateurs est disponible aujourd'hui. Vous pouvez également consulter le guide théorique et le PowerPoint pour une meilleure compréhension du projet.
+
+Nous sommes impatients de vous offrir une expérience optimale sur Cov-what- et nous restons à votre disposition pour tout retour ou suggestion.
   
   
