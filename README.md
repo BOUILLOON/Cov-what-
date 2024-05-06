@@ -29,7 +29,7 @@ Liens :
 
 UPDATE 
 
-Aujourd'hui, lundi, marque une étape dans l'évolution du projet Cov-what-. Des modifications significatives ont été apportées pour améliorer l'expérience des utilisateurs. Désormais, vous pouvez accéder aux dernières mises à jour sur le lien suivant (les anciens documents et fichier ont été modifié donc plus accessible) : https://7408-193-55-66-240.ngrok-free.app.
+Aujourd'hui, lundi, marque une étape dans l'évolution du projet Cov-what-. Des modifications significatives ont été apportées pour améliorer l'expérience des utilisateurs. Désormais, vous pouvez accéder aux dernières mises à jour sur le lien suivant (les anciens documents et fichier ont été modifié donc plus accessible) : https://flounder-arriving-turkey.ngrok-free.app.
 
 Ces modifications visent à rendre l'outil informatique encore plus efficace pour répondre aux besoins spécifiques des étudiants de la formation universitaire BUT R&T. L'objectif principal reste de faciliter l'organisation du covoiturage en mettant en relation les étudiants partageant le même itinéraire vers le pôle universitaire des portes du Jura à Montbéliard.
 
